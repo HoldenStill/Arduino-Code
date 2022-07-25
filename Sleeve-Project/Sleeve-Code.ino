@@ -1,5 +1,3 @@
-
-#include <MPU6050.h>
 #include <avr/sleep.h>
 #include <avr/wdt.h>
 #include <avr/power.h>
